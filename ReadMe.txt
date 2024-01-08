@@ -9,6 +9,10 @@ It was fun to build, and fun for my brother to keep track with me.
 I used Java for this project because it is the language I am most experienced with. For this upcoming season, I
 am interested in using skills I learned to turn it into a web based application, to make it easier for others to access the data they need.
 
+After compiling the java code, the program prompts the user to enter a name for the player. If the player exists, it looks up the file for that player.
+If they don't exist, it creates a new file for the new player. It allows the user to enter stats, view stats, and delete stats. You can also modify it
+directly because all data is stored in a CSV file.
+
 MIT License
 
 Copyright (c) [2023] [Austin Oravec]
