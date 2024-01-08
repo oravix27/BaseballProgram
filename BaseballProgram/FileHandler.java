@@ -4,7 +4,8 @@ import java.time.format.DateTimeFormatter;
 import java.util.ArrayList;
 import java.util.List;
 
-public class FileHandler {
+public class FileHandler 
+{
     // declares constant variables
     private static final String DELIMITER = ",";
     private static final String EXTENSION = ".csv";
